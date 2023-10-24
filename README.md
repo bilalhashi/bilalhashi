@@ -8,7 +8,7 @@
 
 
 
-<h2> Certifications </h2>
+<h2>🏅 Certfications </h2>
 
 - [Google Cybersecurity Professional Certification Course](https://www.credly.com/badges/e6556d07-8d34-46c5-9ae0-1a8d341b12ed)
 
