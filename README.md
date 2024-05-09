@@ -12,6 +12,6 @@
 
 - [Google Cybersecurity Professional Certification Course](https://www.credly.com/badges/e6556d07-8d34-46c5-9ae0-1a8d341b12ed)
 
-- CompTIA Security+ 
+- [CompTIA Security+](https://www.credly.com/badges/10a6cfad-c663-4dde-95e6-f955250788f9/public_url)
 
 - CompTIA CYSA+ (To be completed May 2024)
