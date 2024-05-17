@@ -14,4 +14,4 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/10a6cfad-c663-4dde-95e6-f955250788f9/public_url)
 
-- CompTIA CYSA+ (To be completed May 2024)
+- CompTIA Network+ (To be completed July 2024)
